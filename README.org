@@ -1,1 +1,1 @@
-Moved to GitHub organization [tipxmr/tipxmr-frontend](https://github.com/tipxmr/tipxmr-frontend)
+Moved to GitHub organization https://github.com/tipxmr/tipxmr-frontend
